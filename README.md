@@ -23,4 +23,4 @@ The extra sahder i added was the tooon ramp plus a rim lighting to the player, t
  - [Water Textures](https://3dtextures.me/2017/12/28/water-001/)
  - [Grass Textures](https://3dtextures.me/2016/05/16/grass-002/)
  - [Main Github Page](https://github.com/GorayaU/Intro-to-ComGraph-Final)
-
+ - [Releases Page](https://github.com/GorayaU/Intro-to-ComGraph-Final/releases)
